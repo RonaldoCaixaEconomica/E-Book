@@ -24,3 +24,19 @@ Ronaldo JW - GitHub
 ## Licença**
 Este projeto está licenciado sob a Licença MIT. Veja o arquivo LICENSE para mais detalhes.
 
+
+
+
+ 
+
+Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
+seguem abaixo.
+
+
+
+## 💻 Tecnologias utilizadas no projeto
+
+- [chatopenai](https://copilot.microsoft.com/chats/G6ZmMf12cJnHaYMcVFQ93)) 
+- [Leonardo.ai](https://leonardo.ai/)
+- [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
+
